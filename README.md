@@ -20,4 +20,4 @@ Apriori: A widely used algorithm for frequent itemset mining. It employs an iter
 - Optimized Inventory Management: Market basket analysis helps identify popular and slow-moving items, allowing for better inventory control.
 - Data-Driven Decision Making: Retailers can leverage insights to make informed decisions about product placement, marketing campaigns, and store layout.
 
-_ Sources and Refrence - https://www.turing.com/kb/market-basket-analysis_
+_Sources and Refrence - https://www.turing.com/kb/market-basket-analysis_
