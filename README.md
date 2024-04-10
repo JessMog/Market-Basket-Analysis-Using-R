@@ -19,5 +19,13 @@ Apriori: A widely used algorithm for frequent itemset mining. It employs an iter
 - Enhanced Customer Experience: Personalized recommendations based on purchase history can lead to a more satisfying shopping experience.
 - Optimized Inventory Management: Market basket analysis helps identify popular and slow-moving items, allowing for better inventory control.
 - Data-Driven Decision Making: Retailers can leverage insights to make informed decisions about product placement, marketing campaigns, and store layout.
+  Getting Started with R Packages
+
+### Several R packages implement market basket analysis algorithms. Popular choices include:
+
+`arules`
+`basketMarket`
+`mlxtend`
+These packages offer functions for data preparation, frequent itemset mining, association rule generation, and visualization of results.
 
 _Sources and Refrence - https://www.turing.com/kb/market-basket-analysis_
