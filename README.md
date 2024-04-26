@@ -10,7 +10,7 @@ Market basket analysis is a data mining technique that analyzes patterns of co-o
 - Confidence: The probability of buying a consequent itemset (B) given the purchase of an antecedent itemset (A).
 - Lift: The ratio of the confidence of a rule to the overall support of the consequent itemset. It indicates if the presence of A strengthens the likelihood of buying B together.
 
-## Algorithm  
+## Algorithm    
   
 Apriori: A widely used algorithm for frequent itemset mining. It employs an iterative approach to discover frequently occurring itemsets and generate association rules.
 ## Benefits of Market Basket Analysis
